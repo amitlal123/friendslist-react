@@ -1,0 +1,7 @@
+.friendList {
+  list-style-type: none;
+}
+
+.friendList li {
+  margin-bottom: 30px;
+}
